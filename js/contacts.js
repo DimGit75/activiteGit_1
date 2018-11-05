@@ -54,7 +54,7 @@ for (var option = ""; option !== "0";) {
 
 				console.log("Le nouveau contact a été ajouté");
 		}
-
+};
 
 //Fin du programme
 console.log("Au revoir!\n ");
